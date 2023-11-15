@@ -5,8 +5,6 @@
 
 This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=pRybm9lXW2c)
-
 Key Features:
 - Auth 
 - Organizations / Workspaces
